@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="center">Hi 👋, I'm Santiago!</h1>
 <h3 align="center">Im full stack developer in progress.</h3>
 
@@ -25,7 +24,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://codepen.io/santiagoortegabanegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="santiagoortegabanegas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/santiago-ortega-banegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-ortega-banegas" height="30" width="40" /></a>
-<a href="https://instagram.com/santiortegabanegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santiortegabanegas" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/santy08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="santy08" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,5 +35,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santyortegabanegas&show_icons=true&locale=en" alt="santyortegabanegas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santyortegabanegas&" alt="santyortegabanegas" /></p>
-
-
