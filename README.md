@@ -33,18 +33,19 @@ Here are some ideas to get you started:
 <!--
 
 <p>&nbsp;
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=santyortegabanegas&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="santyortegabanegas" /></p>
 
 
 -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=santyortegabanegas&show_icons=true&locale=en&theme=blue-green" alt="santyortegabanegas" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=santyortegabanegas&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="santyortegabanegas" />
 </p>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=santyortegabanegas&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="santyortegabanegas" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santyortegabanegas&" alt="santyortegabanegas" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=santyortegabanegas&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="santyortegabanegas" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santyortegabanegas&" alt="santyortegabanegas" /></p>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
