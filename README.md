@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/santy08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="santy08" height="30" width="40" /></a>
 </p>
 
+<h3 align="right">Blog posts:</h3>
+
 <br/>
 
 <h3 align="left">🔨 Languages and Tools:</h3>
@@ -41,16 +43,27 @@ Here are some ideas to get you started:
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=santyortegabanegas&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="santyortegabanegas" /></p>
 -->
 
+<!-- Github stats -->
+
 <h3 align="left">📊  Github stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=santyortegabanegas&show_icons=true&locale=en&theme=blue-green" alt="santyortegabanegas" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=santyortegabanegas&show_icons=true&locale=en&theme=blue-green&hide_border=true" alt="santyortegabanegas" />
 </p>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=santyortegabanegas&show_icons=true&locale=en&theme=blue-green" alt="santyortegabanegas" />
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=santyortegabanegas&show_icons=true&locale=en&theme=blue-green&hide_border=true" alt="santyortegabanegas" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santyortegabanegas&" alt="santyortegabanegas" /></p>
 
 
+<p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SantyOrtegaBanegas" alt="santyortegabanegas" />
+
+</p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SantyOrtegaBanegas" alt="santyortegabanegas" />
+</a>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
