@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="left">📊  Github stats:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=santyortegabanegas&show_icons=true&locale=en&theme=blue-green" alt="santyortegabanegas" />
 </p>
 
