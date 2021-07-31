@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 -->
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=santyortegabanegas&show_icons=true&locale=en&theme=blue-green" alt="santyortegabanegas" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=santyortegabanegas&show_icons=true&locale=en&theme=blue-green" alt="santyortegabanegas" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=santyortegabanegas&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="santyortegabanegas" />
 </p>
 
