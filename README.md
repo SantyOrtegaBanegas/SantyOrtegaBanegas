@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santyortegabanegas&show_icons=true&locale=en&theme=gruvbox&hide_border=false&layout=compact&langs_count=8" alt="santyortegabanegas" />
 </a>
 
-
+### **Weekly stats**
 <!--START_SECTION:waka-->
 ```text
 Markdown   11 mins         █████████████████████████   100.00 % 
