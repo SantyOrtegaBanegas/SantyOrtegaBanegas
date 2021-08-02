@@ -40,20 +40,20 @@ Here are some ideas to get you started:
 
 ## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> **Languages and Tools**
 
-<p aling="center">
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%"  height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/1200px-Devicon-css3-plain.svg.png"></code>
-  <code><img width="10%"  height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="10%"  height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/material-ui-1.svg"></code>
+<p align="center">
+  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%"   height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/1200px-Devicon-css3-plain.svg.png"></code>
+  <code><img width="10%"   height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
+  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <code><img width="10%"   height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/material-ui-1.svg"></code>
   <br />
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%"  height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img  width="10%"  height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
-  <code><img width="10%"  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img  width="10%"  src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
+  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="10%"   height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
+  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img  width="10%"   height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
+  <code><img width="10%"   src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img  width="10%"   src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
   <br />
 </p>
 
@@ -77,9 +77,12 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+
+### Weekly stats
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
 
 <br/>
