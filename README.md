@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![imagen.png](https://i.postimg.cc/ydkR2sLS/imagen.png)](https://postimg.cc/wyY3m886)
+
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Santiago!</h1>
 <h3 align="center">Im full stack developer in progress.</h3>
 
