@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/santy08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="santy08" height="30" width="40" /></a>
 </p>
 
-<h3 align="right">Blog posts</h3>
-
 <br/>
 
 <!-- Languages -->
@@ -58,10 +56,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-<!--
-<p>&nbsp;
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=santyortegabanegas&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="santyortegabanegas" /></p>
--->
+<!-- Blog posts  -->                                                                                                                                                     
+                                                                                                                                                     
+                                                                                                                                                     
 
 <!-- Github stats -->
 
@@ -74,13 +71,15 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+
+### Weekly stats
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
 
 <br/>
-
 
 <!--Ejemplo de details-->
 
