@@ -77,12 +77,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-
-### Weekly stats
 ```text
-No Activity tracked this Week
+Markdown   11 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
 
 <br/>
