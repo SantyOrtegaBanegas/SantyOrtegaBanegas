@@ -56,13 +56,9 @@ Here are some ideas to get you started:
 <br/>
 
 <!--START_SECTION:waka-->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=santyortegabanegas" alt="santyortegabanegas" />
-</a>
-
-
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <br/>
