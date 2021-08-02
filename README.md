@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santyortegabanegas&label=Profile%20views&color=0e75b6&style=flat" alt="santyortegabanegas" /> </p>
 
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Sobre mi:
 - 🌱 I’m currently learning **all about from full stack's technologies.**
+- 💻 I regulary use daily **HTML**, **CSS**, **JAVASCRIPT**
+- 🤝 We can connect to **improve our native laguange,my native laguangue is spanish!**
 
 <br/>
 
