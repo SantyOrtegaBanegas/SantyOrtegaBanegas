@@ -56,13 +56,24 @@ Here are some ideas to get you started:
 <br/>
 
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
 
 <br/>
 
+
+<!--Ejemplo de details-->
+
+<details>
+  
+<summary>
+Ejemplo de details  
+</summary>
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
@@ -70,7 +81,6 @@ No Activity tracked this Week
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
-
-
+</details>
 
 
