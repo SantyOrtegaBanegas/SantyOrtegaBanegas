@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 ### **Weekly stats**
 <!--START_SECTION:waka-->
 ```text
-Markdown   11 mins         █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
