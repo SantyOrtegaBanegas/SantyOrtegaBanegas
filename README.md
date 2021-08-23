@@ -78,7 +78,11 @@ Here are some ideas to get you started:
 ### **Weekly stats**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML         45 mins         ██████████░░░░░░░░░░░░░░░   40.65 % 
+JavaScript   28 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.92 % 
+JSON         19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Markdown     15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 <!--END_SECTION:waka-->
 
