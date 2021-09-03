@@ -78,10 +78,11 @@ Here are some ideas to get you started:
 ### **Weekly stats**
 <!--START_SECTION:waka-->
 ```text
-HTML         1 hr 6 mins     ██████████████▒░░░░░░░░░░   57.72 % 
-JSON         17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Markdown     15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Git Config   13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+JSON         1 hr 43 mins    ██████████████░░░░░░░░░░░   56.60 % 
+JavaScript   38 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.28 % 
+HTML         27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Git Config   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 <!--END_SECTION:waka-->
 
