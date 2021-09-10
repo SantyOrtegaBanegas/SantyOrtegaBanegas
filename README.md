@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 <br/>
 
 <!-- Languages -->
-
+<div align="center">
+  
 ## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> **Languages and Tools**
 
 <p align="center">
@@ -56,7 +57,7 @@ Here are some ideas to get you started:
   <code><img  width="10%"   src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
   <br />
 </p>
-
+</div>
 
 
 <br/>
@@ -67,25 +68,31 @@ Here are some ideas to get you started:
                                                                                                                                                      
 
 <!-- Github stats -->
-
+<div align="center">
+  
+ 
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'>  **Github stats**
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=santyortegabanegas&show_icons=true&locale=en&theme=gruvbox&hide_border=false&count_private=true&hide=stars" alt="santyortegabanegas" />
+ | Account Stats | Most Used Languages |
+ | --- | --- |
+ |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=santyortegabanegas&show_icons=true&locale=en&theme=gruvbox&hide_border=false&count_private=true&hide=stars" alt="santyortegabanegas" />|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santyortegabanegas&show_icons=true&locale=en&theme=gruvbox&hide_border=false&layout=compact&langs_count=8" alt="santyortegabanegas" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santyortegabanegas&show_icons=true&locale=en&theme=gruvbox&hide_border=false&layout=compact&langs_count=8" alt="santyortegabanegas" />
-</a>
+</div >
 
+<div align="center">
+  
 ### **Weekly stats**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
+</div>
+  
 <br/>
 
 <!--Ejemplo de details-->
-
+<!--
 <details>
   
 <summary>
@@ -99,6 +106,6 @@ Ejemplo de details
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
-</details>
+</details> -->
 
 
