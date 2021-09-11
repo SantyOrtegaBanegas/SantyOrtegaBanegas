@@ -34,8 +34,10 @@
   <code><img width="10%"   height="50px" src="https://github.com/SantyOrtegaBanegas/SantyOrtegaBanegas/blob/main/logos/js.svg"></code>
   <code><img width="10%"   height="50px" src="https://github.com/SantyOrtegaBanegas/SantyOrtegaBanegas/blob/main/logos/bootstrap.svg"></code>
   <code><img width="10%"   src="https://github.com/SantyOrtegaBanegas/SantyOrtegaBanegas/blob/main/logos/git.svg"></code>
+  <code><img width="10%"   src="https://github.com/SantyOrtegaBanegas/SantyOrtegaBanegas/blob/main/logos/vscode.svg"></code>
   <br />
   <code><img width="10%"   src="https://github.com/SantyOrtegaBanegas/SantyOrtegaBanegas/blob/main/logos/angular.svg"></code>
+  <code><img width="10%"   src="https://github.com/SantyOrtegaBanegas/SantyOrtegaBanegas/blob/main/logos/vuejs.svg"></code>
   <code><img width="10%"   height="45" src="https://github.com/SantyOrtegaBanegas/SantyOrtegaBanegas/blob/main/logos/reactjs.svg"></code>
   <code><img width="10%"   src="https://github.com/SantyOrtegaBanegas/SantyOrtegaBanegas/blob/main/logos/nodejs.svg"></code>
   <code><img  width="10%"   height="50px" src="https://github.com/SantyOrtegaBanegas/SantyOrtegaBanegas/blob/main/logos/expressjs.svg"></code>
