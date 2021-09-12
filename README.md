@@ -57,25 +57,18 @@
  </tr>
   
   
- <tr>
-   
+ <tr>  
  <td align="center">  
  
- <div align="center">  
    
- <p align="center">  
-   
- <a href="https://github.com/SantyOrtegaBanegas"><img width="50%"  src="https://github.com/SantyOrtegaBanegas/SantyOrtegaBanegas/blob/main/logos/vuejs.svg"></a>
- <img width="80%"  height="60" src="https://github.com/SantyOrtegaBanegas/SantyOrtegaBanegas/blob/main/logos/reactjs.svg">
- asdasdasd
+ <img width="30%"  height="60px" src="https://github.com/SantyOrtegaBanegas/SantyOrtegaBanegas/blob/main/logos/vuejs.svg">
+ <img width="30%"  height="60px" src="https://github.com/SantyOrtegaBanegas/SantyOrtegaBanegas/blob/main/logos/reactjs.svg">
+ <img width="25%"  height="50px" src="https://github.com/SantyOrtegaBanegas/SantyOrtegaBanegas/blob/main/logos/bootstrap.svg">
  asdasd
    
- </p>  
-   
- </div>  
-   
- </td>  
  
+   
+ </td>   
    
  <td align="center">
    
@@ -87,14 +80,8 @@
  asdasdasd
  asdasdasdf 
    
- </td>  
-   
-   
+ </td>   
  </tr>
-  
-  
-  
-
 </table>
 
 
