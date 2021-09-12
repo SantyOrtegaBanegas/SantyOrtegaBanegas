@@ -46,8 +46,57 @@
 </p>
 </div>
 
-
 <br/>
+
+
+<table align="center" class="table">
+
+ <tr>
+    <th>Aprendiendo</th>
+    <th>En espera</th>
+ </tr>
+  
+  
+ <tr>
+   
+ <td align="center">  
+ 
+ <div align="center">  
+   
+ <p align="center">  
+   
+ <a href="https://github.com/SantyOrtegaBanegas"><img width="50%"  src="https://github.com/SantyOrtegaBanegas/SantyOrtegaBanegas/blob/main/logos/vuejs.svg"></a>
+ <img width="80%"  height="60" src="https://github.com/SantyOrtegaBanegas/SantyOrtegaBanegas/blob/main/logos/reactjs.svg">
+ asdasdasd
+ asdasd
+   
+ </p>  
+   
+ </div>  
+   
+ </td>  
+ 
+   
+ <td align="center">
+   
+ bien
+ Hola
+ das
+ fas
+ asdasd
+ asdasdasd
+ asdasdasdf 
+   
+ </td>  
+   
+   
+ </tr>
+  
+  
+  
+
+</table>
+
 
 <!-- My projects  -->                                                                                                                                                         
 <!-- Blog posts  -->                                                                                                                                                     
