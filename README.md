@@ -1,7 +1,7 @@
 
 [![imagen.png](https://i.postimg.cc/ydkR2sLS/imagen.png)](https://postimg.cc/wyY3m886)
 
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Santiago!</h1>
+<h1 align="center">Hi <img src="https://github.com/SantyOrtegaBanegas/SantyOrtegaBanegas/blob/main/assets/Hi.gif" width="29px"> I'm Santiago!</h1>
 <h3 align="center">Im full stack developer in progress.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santyortegabanegas&label=Profile%20views&color=0e75b6&style=flat" alt="santyortegabanegas" /> </p>
