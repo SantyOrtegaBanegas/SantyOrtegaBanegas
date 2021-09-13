@@ -62,14 +62,9 @@
  </td>   
    
  <td align="center">
-   
- bien
- Hola
- das
- fas
- asdasd
- asdasdasd
- asdasdasdf 
+
+   <img width="30%"  height="60px" src="https://github.com/SantyOrtegaBanegas/SantyOrtegaBanegas/blob/main/logos/python.svg">
+   <img width="30%"  height="60px" src="https://github.com/SantyOrtegaBanegas/SantyOrtegaBanegas/blob/main/logos/reactnative.png">
    
  </td>   
  </tr>
